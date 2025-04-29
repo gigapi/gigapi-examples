@@ -1,4 +1,4 @@
-# IOx 
+# GigAPI 
 ### FlightSQL Rust
 Example gRPC Flight SQL API client using rust
 
