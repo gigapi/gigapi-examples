@@ -1,4 +1,4 @@
-# IOx 
+# GigAPI 
 ### FlightSQL Python
 Example gRPC Flight SQL API client using Python3
 
