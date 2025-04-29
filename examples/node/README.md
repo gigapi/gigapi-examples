@@ -1,4 +1,4 @@
-# IOx 
+# GigAPI 
 ### FlightSQL NodeJS
 Example gRPC Flight SQL API client using NodeJS
 
