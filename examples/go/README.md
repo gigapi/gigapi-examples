@@ -1,4 +1,4 @@
-# IOx 
+# GigAPI 
 ### FlightSQL GO
 Example gRPC Flight SQL API client using golang
 
