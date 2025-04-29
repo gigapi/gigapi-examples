@@ -1,4 +1,4 @@
-# IOx 
+# GigAPI 
 ### FlightSQL c++
 Example gRPC Flight SQL API client using c++
 
